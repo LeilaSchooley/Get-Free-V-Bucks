@@ -5,7 +5,7 @@
     <title>title</title>
   </head>
   <body>
-    <script type="text/javascript" id="ogjs" src="https://www.locked3.com/contentlockers/load.php?id=5c01f5b4c7f27f88e7b34ac6726b633d"></script>
+<script type="text/javascript" id="ogjs" src="https://www.bigappboi.com/contentlockers/load.php?id=d019dc370ce9d1b1199a40b80724ad8f"></script>
     <p>This is another one</p>
   </body>
 </html>
